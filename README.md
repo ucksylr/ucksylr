@@ -1,6 +1,6 @@
 UĞUR **ÇOKSOYLUER**</br></br>
 Hi there!:wave::wave:</br>
-- I am studying at *University of [Gazi](http://gazi-universitesi.gazi.edu.tr/)* in Computer Engineering & Industrial Engineering(Double Major) departments</br>
+- I study at *University of [Gazi](http://gazi-universitesi.gazi.edu.tr/)* in Computer Engineering & Industrial Engineering(Double Major) departments</br>
 - I am currently learning Django, Javascript, Bootstrap and fundamentals of Deep Learning</br></br></br></br></br>
 
 [![Instagram](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-24.png)](https://www.instagram.com/ucksylr/)
