@@ -1,4 +1,4 @@
-Hi there!:wave::wave: I'm Ugur Coksoyluer. 
+Hi there! 
 
 You can reach me at
 
